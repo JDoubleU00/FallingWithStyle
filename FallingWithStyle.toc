@@ -1,0 +1,7 @@
+## Interface: 81000
+## Version: 0.1
+## Title:FallingWithStyle
+## Notes: Creates a macro that will use a spell or item to slow their fall.
+## Author: JDoubleU00
+
+FallingWithStyle.lua
